@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Menezes-G, I was born in São Paulo, SP, Brazil and I'm a beginner in programming.
 - 👀 I’m interested in Games, Sports, HTML, CSS, JavaScript and Python.
 - 🌱 I’m currently learning Python and a bit of HTML and CSS.
-- 💞️ I’m looking to collaborate on projects when I reach a good level of programming. 
+- 💞️ I’m looking to collaborate on projects which could improve my level of programming
 - 📫 How to reach me: 
 - By e-mail or by linkedIn https://www.linkedin.com/in/gustavo-menezes-fernandes-0045a61a1/
 
